@@ -1,0 +1,7 @@
+0 select_light
+1 turn_on
+2 turn_off
+3 select_motor
+4 power_up
+5 power_down
+6 nothing
